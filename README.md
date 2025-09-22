@@ -32,7 +32,7 @@ HW1_Variable[HW1_Variable.xlsx](https://github.com/user-attachments/files/224784
 3. Standardized text format
 4. Trimmed extra spaces
 
-##Difficulties while collecting data
+## Difficulties while collecting data
 1. Observation-Many store provide different promotion prices to attract their buyers. However, some store did not have the same products some has only 1 or 2 to supplied the needs of the population surrounding or living in that areas. 
 2. Identify variable-Can be tricky some how as personally I might not understand the concept as much. 
 3. Cleaning data-time consuming, for big data will require some program to support on cleaning datas. 
