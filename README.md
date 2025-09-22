@@ -1,5 +1,8 @@
 # HW1_Data_Analysis
 HW1_
+Raw_Data[HW1.xlsx](https://github.com/user-attachments/files/22478481/HW1.xlsx);
+HW1_Variable[HW1_Variable.xlsx](https://github.com/user-attachments/files/22478487/HW1_Variable.xlsx);
+
 # README.txt - HW1 Dataset
 
 ## Birth of Data
